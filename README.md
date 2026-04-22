@@ -1,8 +1,9 @@
+[README (3).md](https://github.com/user-attachments/files/26988306/README.3.md)
 <div align="center">
 
 # Hi there, I'm Joy Barot! 👋
 
-### 🎯 Talent Acquisition Specialist | Web Developer | BCA Graduate
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0C040&center=true&vCenter=true&width=600&lines=Senior+Talent+Acquisition+Specialist;US+Staffing+%7C+IT+Recruitment+Expert;BCA+Graduate+%7C+Web+Developer;Building+Tech+Skills+One+Project+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-barot-6aa823283)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joybarotjb1@gmail.com)
@@ -47,7 +48,6 @@ Email    : joybarotjb1@gmail.com
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 🎯 Professional Skills
 ![Recruitment](https://img.shields.io/badge/Talent_Acquisition-FF6B6B?style=for-the-badge)
@@ -93,6 +93,8 @@ Email    : joybarotjb1@gmail.com
 ![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joybarotjb1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joybarotjb1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joybarotjb1&theme=dark&hide_border=true&background=0d1117&ring=f0c040&fire=f0c040&currStreakLabel=f0c040)
 
 </div>
 
