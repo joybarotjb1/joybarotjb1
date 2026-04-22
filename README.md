@@ -1,16 +1,18 @@
-[README (3).md](https://github.com/user-attachments/files/26988306/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/26988396/README.4.md)
 <div align="center">
 
 # Hi there, I'm Joy Barot! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0C040&center=true&vCenter=true&width=600&lines=Senior+Talent+Acquisition+Specialist;US+Staffing+%7C+IT+Recruitment+Expert;BCA+Graduate+%7C+Web+Developer;Building+Tech+Skills+One+Project+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-barot-6aa823283)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joybarotjb1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joybarotjb1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joybarotjb1.github.io/job-tracker)
 
-![Profile Views](https://komarev.com/ghpvc/?username=joybarotjb1&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=joybarotjb1&color=F0C040&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -90,11 +92,46 @@ Email    : joybarotjb1@gmail.com
 
 <div align="center">
 
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joybarotjb1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040)
+<img src="https://github-readme-stats.vercel.app/api?username=joybarotjb1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joybarotjb1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=ffffff" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joybarotjb1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0c040)
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joybarotjb1&theme=dark&hide_border=true&background=0d1117&ring=f0c040&fire=f0c040&currStreakLabel=f0c040)
+
+</div>
+
+---
+
+## 🐍 My GitHub Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joybarotjb1/joybarotjb1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joybarotjb1/joybarotjb1/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/joybarotjb1/joybarotjb1/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Joy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joybarotjb1&bg_color=0d1117&color=f0c040&line=f0c040&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joybarotjb1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,5 +155,7 @@ Email    : joybarotjb1@gmail.com
 ---
 
 ⭐ *If you like my work, consider giving my projects a star!* ⭐
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=f0c040&height=100&section=footer)
 
 </div>
